@@ -22,3 +22,25 @@
 - sunset at the horizon
 - shadowy creature can be seen in the distance
 - `Mother appears to know what it is (?)` tells him to run away and not look back
+- What happens with the mother is unknown but she is never to be seen again and so is the beast
+- No one in the city believes the story, they pass it as an `accident(?)`
+- Character feels strong emotions for the first time, mainly anger towards his own people for not believing him and refusing to help
+- He tries to find the person that led him to forest in first place but is unsuccessful in doing so
+- Leaves home city in search for clues, spends the next 240 years or so learning about various things: science, history, engineering etc `Artificer(?)` but no clues of the beast or what happened to his mother
+- Learns about powerful `artifact/runes(?)` located in Dolen Izmet
+- Uppon arrival in Dolen Izmet searches for the biggest place of knowledge 
+- Find the Von Zell Dojo archives
+- `timespan(?)`
+- Manages to find a `job(?)` there
+- `timespan(?)`
+- Volunteers for a dangerous mission to Brotil island
+- `mission details(?)`
+- Meets a kitsune on his way back to the city `(details TBD)`
+- `timespan(?)`
+- gets rewarded with Ring of Protection for a successful mission and important findings and is promoted to an official archivist.
+- `timespan(?)`
+- tries to use his newly acquired position to access information under tight security but gets denied
+- `Charlie(don't remember name) and Seven interactions(?)`
+- has to go behind the dojo's back to find more information
+- learns about a big boss guy by the name of Drisko who deals in transfer of ancient artifacts/runes and decides to investigate him
+- `travels the dris tavern/recieves a letter from Drisko himself(?)`
