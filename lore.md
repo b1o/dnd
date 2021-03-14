@@ -15,7 +15,7 @@
 - One book in particular appears to be missing it's ending, he can't get it out of his mind. The book writes about `ancient evil (?)`
 - Starts researching about the missing information, asking other people about it, the usual answer being *Don't dweel on these things, its just stories to scare children*
 - Strange, wrapped in shadows person, contacts him over his research of the said book, sends him on a trail of clues that lead to a `dark forest (?)` outside the city
-- missing for few days, probably too wrapped in search to even notice the days passing by or just effect of the forest itself
+- missing for few days, probably too wrapped in search to even notice the days passing by or an `effect of the forest(?)` itself
 - mother gets worried - starts searching
 - same person contacts her as well, sends her to the forest
 - mother finally finds him, leads him out of the forest
