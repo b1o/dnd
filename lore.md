@@ -39,7 +39,7 @@
 - `timespan(?)`
 - gets rewarded with Ring of Protection for a successful mission and important findings and is promoted to an official archivist.
 - `timespan(?)`
-- tries to use his newly acquired position to access information under tight security but gets denied `resasons(?)`
+- tries to use his newly acquired position to access information under tight security but gets denied `reasons(?)`
 - `Charlie(don't remember name) and Seven interactions(?)`
 - has to go behind the dojo's back to find more information
 - learns about a big boss guy by the name of Drisko who deals in transfer of ancient artifacts/runes and decides to investigate him
