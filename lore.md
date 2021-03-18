@@ -1,6 +1,6 @@
 # Lore
 
-- Name: ===
+- Name: Eronar  Ledril/Eronar/Kherdin/Bhorul/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 - Age: 256
 - Race: Vedalken
 
@@ -73,4 +73,10 @@
 - but no matter the current situation with the fox, drisko's request has to be dealt with first
 - so they decide to travel together to the tavern
 - relationship with fox person improved
+
   
+Netlallar
+Firon
+Drollin
+Ataz
+Elon
