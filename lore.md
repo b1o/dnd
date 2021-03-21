@@ -1,6 +1,6 @@
 # Lore
 
-- Name: Eronar  Ledril/Eronar/Kherdin/Bhorul/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+- Name: Eronar
 - Age: 256
 - Race: Vedalken
 
